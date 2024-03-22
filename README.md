@@ -7,7 +7,7 @@
 
 ## Result
 ### BN normalization
-![Code BN](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/3335c9ae-0d40-41d6-be8c-1881d8a32c45)
+![Code BN](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/9cd69541-b7ac-455b-9032-905817402a3c)
 
 ### GN normalization
 ![Code GN](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/af0cf0d5-4f8b-4638-88a1-91563049ca37)
@@ -17,18 +17,15 @@
 
 ## Performance Metrics
 ### BN normalization
-![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/2a594c0c-c778-4bdc-b41a-bd030e16a707)
-
+![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/1ead99ae-d55f-4aae-8275-a7f288371a71)
 
 ### GN normalization
 ![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/9f0a9941-033f-4114-9c34-1b529dbd859b)
-
-
 ### LN normalization
 ![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/ff3223b2-32b8-4615-8982-0ff3fd54b025)
 
 ## Mispredicted Image - Batch Normalization
-![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/b32cfd49-d73f-4344-bf6b-93430908da74)
+![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/35b871e3-a1c4-418c-883e-9305ce70c8ef)
 
 ## Mispredicted Image - Group Normalization
 ![image](https://github.com/PRIYE/ERAV2_Session8/assets/7592375/4e009bc4-f5f1-4f57-956c-4571d88db3f9)
